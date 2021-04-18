@@ -1,0 +1,66 @@
+.parallax {
+    background-image: url("atl.jpeg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax2 {
+    background-image: url("inlet.jpg");
+
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.background  {
+    background-color: lightgrey;
+    text-align: center;
+    
+}
+.me  {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    background-color: lightgrey;
+}
+.title1 {
+    text-align: center;
+    margin: auto;
+    
+    background-color: lightgrey;
+    font: bold;
+    opacity: 0.6;
+    height: 200px;
+
+    text-align: center;
+    font-size: 18px; 
+}
+.title {
+    text-align: center;
+    margin: auto;
+    
+    background-color: lightgrey;
+    font: bold;
+    opacity: 0.6;
+    height: 275px;
+
+    text-align: center;
+    font-size: 18px; 
+}
+.title2 {
+        text-align: center;
+        margin: auto;
+        
+        background-color: lightgrey;
+        font: bold;
+        opacity: 0.6;
+        height: 190px;
+    
+        text-align: center;
+        font-size: 18px; 
+    
+}
